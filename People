@@ -1,0 +1,21 @@
+public class People {
+
+  private String name;
+  
+  private int age;
+  
+  private String address;
+  
+  private String idCard;
+  
+  public void say(){}
+  
+  public void eat(){}
+  
+  public void sleep(){}
+  
+  public void run(){}
+  
+  public void walk(){}
+  
+}
